@@ -1,0 +1,10 @@
+#int
+a=10
+#float
+b=88.21
+#string
+c="nitish"
+#boolean
+d=True
+#None
+e=None

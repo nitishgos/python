@@ -1,0 +1,11 @@
+word="nitish"
+a=word[0:4]
+print(a)
+b=word[1:5]
+print(b)
+c=word[:6]
+print(c)
+d=word[0:]
+print(d)
+e=word[-5:-1]
+print(e)
